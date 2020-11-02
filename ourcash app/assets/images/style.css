@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.info{
+    padding-top: 150px;
+}
+
+#product{
+    margin-top: 200px;
+}
